@@ -1,0 +1,147 @@
+<nav class="flex-nav">
+  <div class="container">
+    <div class="grid">
+      <div class="column-xs-9 column-md-8">
+        <p id="logo">Cisco Inc<span id="highlight">.</span></p>
+      </div>
+      <div class="column-xs-3 column-md-4">
+        <a href="#" class="toggle-nav">Menu <i class="ion-navicon-round"></i></a>
+        <ul>
+          <li><a href="#">About</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="#">News</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+<main class="intro-section">
+  <div class="container">
+    <div class="grid">
+      <div class="column-xs-12">
+        <ul class="slider">
+          <li class="slider-item active">
+            <div class="grid vertical">
+              <div class="column-xs-12 column-md-2 hide-mobile">
+                <div class="intro">
+                  <a href="#">
+                    <h1 class="title"><span class="underline">Dock Levelers</span></h1>
+                  </a>
+                </div>
+              </div>
+              <div class="column-xs-12 column-md-10">
+                <div class="image-holder">
+                  <img class="test" src="http://www.cisco-inc.com/blog/image/153633/">
+                </div>
+                <div class="grid">
+                  <div class="column-xs-12 column-md-9">
+                    <div class="intro show-mobile">
+                      <a href="#">
+                        <h1 class="title"><span class="underline">Dock Levelers</span></h1>
+                      </a>
+                    </div>
+ <p class="description">Maintenance professionals know the importance of having the right tool for the job. But when your job involves outsourcing maintenance and repair work, it's tough to choose a tool that's just right. </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="slider-item">
+            <div class="grid vertical">
+              <div class="column-xs-12 column-md-2 hide-mobile">
+                <div class="intro">
+                  <a href="#">
+                    <h1 class="title"><span class="underline">Planned Maintenance</span></h1>
+                  </a>
+                </div>
+              </div>
+              <div class="column-xs-12 column-md-10">
+                <div class="image-holder">
+                  <img src="http://www.cisco-inc.com/blog/image/153699/">
+                </div>
+                <div class="grid">
+                  <div class="column-xs-12 column-md-9">
+                    <div class="intro show-mobile">
+                      <a href="#">
+                        <h1 class="title"><span class="underline">Planned Maintenance</span></h1>
+                      </a>
+                    </div>
+                    <p class="description">With customized packages. we help identify a maintenance strategy that is best suited for your facility so you can concentrate on your business.  </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            
+            
+            
+            
+            
+          </li>
+          <li class="slider-item">
+            <div class="grid vertical">
+              <div class="column-xs-12 column-md-2 hide-mobile">
+                <div class="intro">
+                  <a href="#">
+                     <h1 class="title"><span class="underline">Forklift Batteries</span></h1>
+                  </a>
+                </div>
+              </div>
+              <div class="column-xs-12 column-md-10">
+                <div class="image-holder">
+                  <img src="http://www.cisco-inc.com/blog/image/153993/">
+                </div>
+                <div class="grid">
+                  <div class="column-xs-12 column-md-9">
+                    <div class="intro show-mobile">
+                      <a href="#">
+                        <h1 class="title"><span class="underline">Forklift Batteries</span></h1>
+                      </a>
+                    </div>
+                    <p class="description">Motive power. When you need to move.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+          <li class="slider-item">
+            <div class="grid vertical">
+              <div class="column-xs-12 column-md-2 hide-mobile">
+                <div class="intro">
+                  <a href="#">
+                    <h1 class="title"><span class="underline">Chargers</span></h1>
+                  </a>
+                </div>
+              </div>
+              <div class="column-xs-12 column-md-10">
+                <div class="image-holder">
+                  <img src="http://www.cisco-inc.com/blog/image/153997/">
+                </div>
+                <div class="grid">
+                  <div class="column-xs-12 column-md-9">
+                    <div class="intro show-mobile">
+                      <a href="#">
+                        <h1 class="title"><span class="underline">Chargers</span></h1>
+                      </a>
+                    </div>
+                    <p class="description">Forklift chargers for every application.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+      <div class="grid">
+        <div class="column-xs-12">
+          <div class="controls">
+              <a class="previous">
+                <i class="ion-ios-arrow-thin-left"></i>
+              </a>
+              <a class="next">
+                <i class="ion-ios-arrow-thin-right"></i>
+              </a>
+            </div>
+          </div>
+      </div>
+    </div>
+  </div>
+</main>
